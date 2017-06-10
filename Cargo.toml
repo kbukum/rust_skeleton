@@ -1,0 +1,19 @@
+[package]
+name = "rust_skeleton"
+version = "0.0.1"
+license = "MIT/Apache-2.0"
+authors = ["Gol D. Roger <kamilbukum@gmail.com>"]
+description   = "Full fake REST API generator."
+homepage      = "https://github.com/kbukum/synca"
+repository    = "https://github.com/kbukum/synca"
+readme        = "README.md"
+keywords      = [ "device" ]
+exclude       = [
+  ".gitignore",
+  "tests/**/*",
+  ".travis.yml"
+]
+
+[dependencies]
+argparse = "0.2.1"
+bytes = "0.4.4"
