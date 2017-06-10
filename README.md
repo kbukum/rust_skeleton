@@ -13,5 +13,4 @@ cargo tests
 ```bash
 cargo run
 ```
-* debugging ( on Visual Studio Code)
- - Select Debug Option on Lift Menu and click debug
+* Debugging ( on Visual Studio Code) : Select debug option on left menu and click debug.
